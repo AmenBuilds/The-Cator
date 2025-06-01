@@ -11,8 +11,6 @@ How to Use
 Open Cator.html in your browser.
 
 
-Sources
-
 
 
 
